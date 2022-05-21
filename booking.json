@@ -1,0 +1,39 @@
+{
+    "client": {
+        "firstName": "Yawo", 
+        "lastName": " Agonde", 
+        "email": "agyber04@gmail.com",
+        "city": "Lome", 
+        "country": "14/03/1993",
+		"user_profile_id": "342",
+		"vehicle_id": "34234",
+		"discount_id": "22",
+	    "discount_type": "% or cash",
+		"discount": "33333"
+},
+
+"client2": {
+    "firstName": "Edmond", 
+    "lastName": " Allu", 
+    "email": "edmondallu01@gmail.com",
+    "city": "Lome", 
+    "country": "14/03/1993",
+    "user_profile_id": "342",
+    "vehicle_id": "34234",
+    "discount_id": "22",
+    "discount_type": "% or cash",
+    "discount": "33333"
+},
+"client3": {
+    "firstName": "Justin", 
+    "lastName": " Dzossou", 
+    "email": "justindzos04@gmail.com",
+    "city": "Lome", 
+    "country": "14/03/1993",
+    "user_profile_id": "342",
+    "vehicle_id": "34234",
+    "discount_id": "22",
+    "discount_type": "% or cash",
+    "discount": "33333"
+    }
+}
